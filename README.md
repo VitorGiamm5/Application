@@ -1,5 +1,26 @@
+Titulo: Aplicação Core sistema logístico 
+
+Descrição:
+Uma api escrita em c# .NetCore que permite consultar dados através de end-points
+
+Stack:
+- C#
+- DotNet Core 8.0
+- EntityFramework (orm)
+- Postgres (database)
+
+Como executar
+- git pull https://github.com/VitorGiamm5/Application.git
+
+cd 
+
+
 # DBA Challenge 20240802
 
+- Deve conter o título do projeto
+- Uma descrição sobre o projeto em frase
+- Deve conter uma lista com linguagem, framework e/ou tecnologias usadas
+- Como instalar e usar o projeto (instruções)
 
 ## Introdução
 
