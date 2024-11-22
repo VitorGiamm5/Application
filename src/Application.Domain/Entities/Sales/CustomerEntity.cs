@@ -1,4 +1,4 @@
-namespace Application.Domain.Entities.CustomerEntity;
+namespace Application.Domain.Entities.Sales;
 
 public sealed class CustomerEntity
 {

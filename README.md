@@ -10,9 +10,9 @@ Stack:
 - Postgres (database)
 
 Como executar
-- git pull https://github.com/VitorGiamm5/Application.git
-
-cd 
+$ git pull https://github.com/VitorGiamm5/Application.git
+$ cd Application
+$ dotnet restore
 
 
 # DBA Challenge 20240802
